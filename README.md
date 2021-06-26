@@ -1,0 +1,1 @@
+Project for the implementation of a pharmacy website
